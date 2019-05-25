@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611486025973",
+    "firebase_url": "https://vid-now.firebaseio.com",
+    "project_id": "vid-now",
+    "storage_bucket": "vid-now.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611486025973:android:231ec6deabaebfec",
+        "android_client_info": {
+          "package_name": "com.example.vidnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611486025973-vm94ra6bi96n6tgo5en47u53pc3bq63f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vidnow",
+            "certificate_hash": "6be4aca82beb1a5d71d0481946e1c42605cf2440"
+          }
+        },
+        {
+          "client_id": "611486025973-17muhsdrgf7e3felg3o91tra4b6pjb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYmg9EqroVeluP3pehJz1jdS7GmBIfEHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611486025973-17muhsdrgf7e3felg3o91tra4b6pjb8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
