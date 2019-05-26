@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>611486025973-9vpa3k112j11us4da1p5i479o3ovrkjm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.611486025973-9vpa3k112j11us4da1p5i479o3ovrkjm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>611486025973-vm94ra6bi96n6tgo5en47u53pc3bq63f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuX6BJncqgnAPAzJPBpOxsG_itIOVlg1c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>611486025973</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vidnow</string>
+	<key>PROJECT_ID</key>
+	<string>vid-now</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vid-now.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:611486025973:ios:231ec6deabaebfec</string>
+	<key>DATABASE_URL</key>
+	<string>https://vid-now.firebaseio.com</string>
+</dict>
+</plist>
